@@ -9,5 +9,5 @@ Well, the official ISB map is available [at the UCI website](https://uci.nus.edu
 - Add pointers to nearest department, bus numbers, etc.
 - Add a schedule/interval flowchart
 
-The latest version is available in the file `NUS ISB Map Full.jpg`. Feel free to suggest and/or point out problems by creating an issue!
+The latest version is available in the file [`NUS ISB Map Full.jpg`](https://github.com/Mick235711/NUS-Transit-Map/blob/main/NUS%20ISB%20Map%20Full.jpg). Feel free to suggest and/or point out problems by creating an issue!
 
